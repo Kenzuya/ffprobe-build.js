@@ -1,6 +1,6 @@
 {
     "name": "ffprobe-build",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "FFprobe static build",
     "main": "index.js",
     "scripts": {
@@ -15,6 +15,7 @@
         "ffprobe",
         "ffmpeg"
     ],
+    "types": "types/index.d.ts",
     "author": "Kenzuya",
     "license": "GPL-3.0-or-later",
     "bugs": {
